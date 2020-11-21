@@ -12,7 +12,7 @@ metadata:
 spec:
   tls:
     - hosts:
-        - charles.stolz.com
+        - charlesstolz.com
         - www.charlesstolz.com
       secretName: charlesstolz-com
 
