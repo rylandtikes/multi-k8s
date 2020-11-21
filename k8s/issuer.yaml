@@ -5,7 +5,7 @@ metadata:
 spec:
   acme:
     server: https://acme-v02.api.letsencrypt.org/directory
-    email: "rtikes@protonmail.com"
+    email: 'rtikes@protonmail.com'
     privateKeySecretRef:
       name: letsencrypt-prod
     solvers:
